@@ -1,8 +1,8 @@
-Progetto Machine Learning
+# Progetto Machine Learning
 
 Francesco Pili, Francesco Marotto, Stefano Lilliu - Università di Cagliari 2022/2023
 
-# Fish Market Prediction System 🐟
+## Fish Market Prediction System 🐟
 
 Un sistema completo di Machine Learning per l'analisi, la classificazione e la regressione basato sul dataset *Fish Market*.
 Il progetto confronta le performance di algoritmi standard (Scikit-learn) con algoritmi custom implementati da zero, valutando l'impatto di diverse tecniche di pre-processing.
