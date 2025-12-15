@@ -51,7 +51,7 @@ The comparative analysis showet that **SVC** and **MLP (Neural Network)** were t
 
 ## Credits:
 Developed by
-**Francesco Pili** - "https://github.com/francesco-pili-dev
-**Francesco Marotto** -
-**Stefano Lilliu** -
+**Francesco Pili** - "https://github.com/francesco-pili-dev <br>
+**Francesco Marotto** - <br>
+**Stefano Lilliu** - <br>
 for the *Machine Learning* exam in **University of Cagliari**
