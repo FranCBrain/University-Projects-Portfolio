@@ -28,7 +28,7 @@ Beyond recreating the gameplay, the primary goal of this project was to explore 
 
 To run this project, you need a Linux environment with the GCC compiler and the required libraries.
 
-##Credits:
+## Credits:
 Developed by <br>
 **Francesco Pili** - <br>
 **Nicola Floris** - <br>
